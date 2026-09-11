@@ -1,4 +1,4 @@
-# Personal Finance Tracker — Telegram + Google Sheets
+# Personal Finance Tracker Telegram + Google Sheets
 
 Personal Finance Tracker sederhana untuk mencatat pemasukan dan pengeluaran melalui Telegram. Data transaksi disimpan otomatis ke Google Sheets, lengkap dengan kategori, akun, budget bulanan, saldo, dan ringkasan pengeluaran.
 
